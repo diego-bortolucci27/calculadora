@@ -36,9 +36,10 @@
 
 }
 
-body
+.body
 {
 	/*background: linear-gradient(to right, #e91e63, #3f51b5);*/
 	background: rgb(43, 43, 221);
+	/*background: linear-gradient(to right, red, blue);*/
 	height: 100%;
 }

@@ -5,7 +5,7 @@
     <title>Calculadora</title>
     <link rel="stylesheet" type="text/css" href="css/estilo.css"/>
 </head>
-<body>
+<body class="body">
     <div class="main">
         <form name="form">
             <input class="textview" name="textview"><br>
